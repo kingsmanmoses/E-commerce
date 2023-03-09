@@ -1,0 +1,5 @@
+{
+  "html-css-class-completion.enableEmmetSupport": true,
+  "emmet.useInlineCompletions": false,
+  "emmet.triggerExpansionOnTab": false
+}
